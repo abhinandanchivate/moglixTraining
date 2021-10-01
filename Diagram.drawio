@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T04:17:47.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.3.8" etag="XbiP6fz4wMzhsHhsBP4v" type="github"><diagram id="zJ57YTD3ODFM6gffccqu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-01T03:35:01.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="OgmjwFtAcNmlIdBbp_q3" version="15.3.8" type="github">
+  <diagram id="zJ57YTD3ODFM6gffccqu" name="Page-1">
+    <mxGraphModel dx="600" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H1C4b79NumxZAiUa3EDi-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1C4b79NumxZAiUa3EDi-1" target="H1C4b79NumxZAiUa3EDi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-1" value="Interface(s)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1C4b79NumxZAiUa3EDi-2" target="H1C4b79NumxZAiUa3EDi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-2" value="Abstract Class" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-4" value="ConcreteClass/ ConcreteClasses" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1C4b79NumxZAiUa3EDi-6" target="H1C4b79NumxZAiUa3EDi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-6" value="I(10)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-7" value="C(10)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-9" value="Collection is an object which is capable to hold multiple objects of same or diff type.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="510" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1C4b79NumxZAiUa3EDi-10" target="H1C4b79NumxZAiUa3EDi-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1C4b79NumxZAiUa3EDi-10" target="H1C4b79NumxZAiUa3EDi-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1C4b79NumxZAiUa3EDi-10" target="H1C4b79NumxZAiUa3EDi-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-10" value="Collection(I)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-11" value="List(to hold duplicate Data)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-13" value="Queue(handling queue )" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-16" value="Set(to hold unique Data)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-18" value="One Dim Collection" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="720" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1C4b79NumxZAiUa3EDi-19" target="H1C4b79NumxZAiUa3EDi-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-19" value="Collection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-20" value="Map" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-22" value="Two Dim Collection" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1010" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-23" value="(k,v)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1C4b79NumxZAiUa3EDi-24" target="H1C4b79NumxZAiUa3EDi-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H1C4b79NumxZAiUa3EDi-24" target="H1C4b79NumxZAiUa3EDi-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-24" value="List" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-25" value="ArrayList : searching is the priority&amp;nbsp;&lt;br&gt;array,&amp;nbsp;&lt;br&gt;self growable" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H1C4b79NumxZAiUa3EDi-27" value="LinkedList" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
